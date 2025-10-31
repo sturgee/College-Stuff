@@ -1,0 +1,3 @@
+Binary information is transferred from one location to another using some communication device. External noise, during transmission, may cause the values of the bits to change from 0 to 1 or 1 to 0. The change of these values cause the change of the actual message and is called an error. To detect these errors and for efficient data transfer, there exist error detection codes.
+An error detection code detects digital errors during transmission.
+This is achieved by adding redundant bits/s to the original binary message.
