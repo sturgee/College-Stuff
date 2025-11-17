@@ -11,10 +11,14 @@
             "id": "805d252d4a8ef935",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Programming Languages/Pointers.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Pointers"
             }
           }
         ]
@@ -149,6 +153,11 @@
   },
   "active": "805d252d4a8ef935",
   "lastOpenFiles": [
+    "Computer Science/Programming Languages/Pointers.md",
+    "Computer Science/Programming Languages/C/List of Escape Sequences in C.md",
+    "Computer Science/Programming Languages/C/Formatting using Format specifiers.md",
+    "Computer Science/Programming Languages/C/Format specifiers.md",
+    "Computer Science/Programming Languages/C",
     "Computer Science/ICT/Error Detection Codes.md",
     "Computer Science/Digital Systems/Full Adder.md",
     "Computer Science/ICT/Effectiveness of Data Communications.md"
