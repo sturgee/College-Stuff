@@ -66,7 +66,7 @@ This is a format of %3.2f: 5663.24
 #Note
 ##### Note: To print the percentage symbol '%', escape characters are not used like in the case of \ ' and \ ". Instead '\%%' is used.
 
-### Padding (also comes under width)
+## Padding (also comes under width)
 
 Used for alignment in a vertical list of numbers. 
 

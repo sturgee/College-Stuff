@@ -16,7 +16,7 @@ printf("This is using a format specifier: %d", number);
 **%e (or %E)** :  float expressed in exponential form
 **%o** :              octal (unsigned) integer number (converts int to octal before printing)
 **%x (or %X)** : hexadecimal (unsigned) for integer number (converts int to hex)
-**%s** :              string (prints character array for char in array != \0) - only scans up to a whitespace while using `scanf("%s", str)` and not \0
+**%s** :              string (prints character array for char in array != \0) - only scans up to a whitespace while using `scanf("%s", str)`[^1] and not \0
 **%p** :              pointers (address that the pointer is pointing to)
 
 For the following code:
@@ -47,5 +47,4 @@ Using %e: 1.267000e+01
 The Memory Address of a: 0x7fffccc6cafc
 ```
 
-#Note 
-##### Note: To print the address of %p, ampersand (&d) is used which extracts the address of d.
+[^1]: Modifications can be made to the format specifier as stated in [[Scanset|scansets.]]

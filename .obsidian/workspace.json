@@ -8,27 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dc7e2fa45894f187",
+            "id": "f7993fb4042552ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Programming Languages/Macros.md",
+                "file": "Computer Science/Programming Languages/C/Scanset.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Macros"
-            }
-          },
-          {
-            "id": "f7993fb4042552ff",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Scanset"
             }
           }
         ]
@@ -104,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Programming Languages/Macros.md",
+                "file": "Computer Science/Programming Languages/C/Scanset.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Macros"
+              "title": "Backlinks for Scanset"
             }
           },
           {
@@ -176,25 +166,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc7e2fa45894f187",
+  "active": "f7993fb4042552ff",
   "lastOpenFiles": [
-    "Computer Science/Programming Languages/Macros.md",
     "Computer Science/Programming Languages/Pointers.md",
-    "Computer Science/Programming Languages/C/List of Escape Sequences in C.md",
-    "Computer Science/Programming Languages/C/Formatting using Format specifiers.md",
+    "Computer Science/Programming Languages/C/Scanset.md",
+    "Untitled.md",
+    "Untitled 1.base",
+    "Untitled.base",
     "Computer Science/Programming Languages/C/Format specifiers.md",
+    "Computer Science/Programming Languages/C/Formatting using Format specifiers.md",
+    "Computer Science/Programming Languages/C/List of Escape Sequences.md",
+    "Computer Science/Programming Languages/Macros.md",
     "Computer Science/Programming Languages/C",
     "Computer Science/Programming Languages/List of Escape Sequences in C.md",
     "Computer Science/Programming Languages/Formatting using Format specifiers.md",
     "Computer Science/Programming Languages/Format specifiers.md",
     "Computer Science/Floating point representation.md",
-    "Untitled.base",
     "Computer Science/Explicit and Implicit Normalization.md",
     "Computer Science/Bias.md",
     "[Bias.md",
     "Computer Science/ICT/Codes.index.md",
     "Computer Science/ICT/Error Detection Codes.md",
-    "Untitled 1.base",
     "Computer Science/ICT/Gray Code.md",
     "Computer Science/ICT/Parity.md",
     "Computer Science/ICT/Weighted Codes and Non Weighted Codes.md",
