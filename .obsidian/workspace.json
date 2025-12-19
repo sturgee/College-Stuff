@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Programming Languages/C/Scanset.md",
+                "file": "Computer Science/Projects/Benefits of Car Repair Self-Help AI Bot.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Scanset"
+              "title": "Benefits of Car Repair Self-Help AI Bot"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Programming Languages/C/Scanset.md",
+                "file": "Computer Science/Projects/Benefits of Car Repair Self-Help AI Bot.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Scanset"
+              "title": "Backlinks for Benefits of Car Repair Self-Help AI Bot"
             }
           },
           {
@@ -168,8 +168,15 @@
   },
   "active": "f7993fb4042552ff",
   "lastOpenFiles": [
-    "Computer Science/Programming Languages/Pointers.md",
+    "Computer Science/Projects/Benefits of Car Repair Self-Help AI Bot.md",
+    "Computer Science/ICT/Parity.md",
+    "Computer Science/ICT/Error Detection Codes.md",
+    "Computer Science/ICT/Codes.index.md",
+    "Computer Science/ICT/Code Translation.md",
+    "Computer Science/ICT/Gray Code.md",
+    "Computer Science/ICT/Weighted Codes and Non Weighted Codes.md",
     "Computer Science/Programming Languages/C/Scanset.md",
+    "Computer Science/Programming Languages/Pointers.md",
     "Untitled.md",
     "Untitled 1.base",
     "Untitled.base",
@@ -185,13 +192,7 @@
     "Computer Science/Explicit and Implicit Normalization.md",
     "Computer Science/Bias.md",
     "[Bias.md",
-    "Computer Science/ICT/Codes.index.md",
-    "Computer Science/ICT/Error Detection Codes.md",
-    "Computer Science/ICT/Gray Code.md",
-    "Computer Science/ICT/Parity.md",
-    "Computer Science/ICT/Weighted Codes and Non Weighted Codes.md",
     "Computer Science/ICT/Effectiveness of Data Communications.md",
-    "Computer Science/ICT/Code Translation.md",
     "Computer Science/Projects/Ideas for future projects.md",
     "Computer Science/Programming Languages",
     "Computer Science/Digital Systems/Full Adder.md",
